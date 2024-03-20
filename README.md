@@ -27,7 +27,7 @@ Execute the program using runserver command.
 ```
 <html>
 <head>
-     <title>Slot Timetable</title>
+     <title>Slot TIme Table-HEMAPRASAD (212222040054)</title>
 </head>
 <body>
 <center>
@@ -35,17 +35,17 @@ Execute the program using runserver command.
 </center>
 <br>
      <table align="center" width="550" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-     <caption><b>Time Table</b></caption>
+     <caption><b>Time Table-HEMAPRASAD(212222040054)</b></caption>
 <tr align="center">
-	<th bgcolor="red">Day/Time</th>
-	<th bgcolor="red">Monday</th>
-	<th bgcolor="red">Tuesday</th>
-	<th bgcolor="red">Wednesday</th>
-	<th bgcolor="red">Thursday</th>
- 	<th bgcolor="red">Friday</th>
+	<th bgcolor="cyan">Day/Time</th>
+	<th bgcolor="cyan">Monday</th>
+	<th bgcolor="cyan">Tuesday</th>
+	<th bgcolor="cyan">Wednesday</th>
+	<th bgcolor="cyan">Thursday</th>
+ 	<th bgcolor="cyan">Friday</th>
 </tr>
 <tr align="center">
-	<th bgcolor="blue">8-10</th>
+	<th bgcolor="red">8-10</th>
 	<td>Maths</td>
 	<td>BEEE</td>
 	<td>FWAD</td>
@@ -53,7 +53,7 @@ Execute the program using runserver command.
     <td>BEEE</td>
 </tr>
 <tr align="center">
-	<th bgcolor="blue">10-12</th>
+	<th bgcolor="red">10-12</th>
 	<td>FREE SLOT</td>
 	<td>FWAD</td>
 	<td>DBMS</td>
@@ -62,11 +62,11 @@ Execute the program using runserver command.
 
 </tr>
 <tr>
-	<th bgcolor="blue">12-1</th>
+	<th bgcolor="red">12-1</th>
 	<td colspan="5" align="center">L U N C H</td>
 </tr>
 <tr align="center">
-	<th bgcolor="blue">1-3</th>
+	<th bgcolor="red">1-3</th>
 	<td>FWAD</td>
 	<td>DBMS</td>
 	<td>C</td>
@@ -75,7 +75,7 @@ Execute the program using runserver command.
 
 </tr>
 <tr align="center">
-	<th bgcolor="blue">3-5</th>
+	<th bgcolor="red">3-5</th>
 	<td colspan="3">FREE SLOT</td>
 	<td>FREE SLOT</td>
     <td>FREE SLOT</td>
@@ -124,7 +124,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Untitled](https://github.com/Hemaprasad-N/slot/assets/135933397/db45f209-88d3-43ac-9c4e-6088bf4079ed)
+![Screenshot 2024-03-20 104630](https://github.com/Hemaprasad-N/slot/assets/135933397/63589ac3-38bd-452e-bc4d-0bea8527c41f)
+
 
 
 ## RESULT
